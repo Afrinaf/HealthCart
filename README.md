@@ -60,13 +60,12 @@
    - On the checkout page, customers can securely pay using Razorpay.
 
 ## Screenshots
-![Screenshot (317)](https://github.com/user-attachments/assets/ddffbf10-ed0b-43ac-bcea-340abe7d2f86)
-![Screenshot (316)](https://github.com/user-attachments/assets/b702e2f9-f6f1-4987-b94d-93c69e8dc71a)
-![Screenshot (315)](https://github.com/user-attachments/assets/31bebd8d-35ad-479e-a75e-65ee89389055)
-![Screenshot (314)](https://github.com/user-attachments/assets/2787ce89-1111-4912-a80a-6a7798d97cad)
-![Screenshot (313)](https://github.com/user-attachments/assets/5a2f3cba-6a00-4dfb-b760-6fdf8853b13e)
-![Screenshot (311)](https://github.com/user-attachments/assets/fcbb3c4a-83bd-4201-a4c0-66fc332d7ec8)
-
+![Screenshot (317)](https://github.com/user-attachments/assets/1023295d-24fe-4798-a148-b2b8541ce78e)
+![Screenshot (316)](https://github.com/user-attachments/assets/13e9ad97-2aa4-4b21-9e47-40b3b8d59e18)
+![Screenshot (315)](https://github.com/user-attachments/assets/3b18dc9a-2a20-4343-a482-9dfb72fb039d)
+![Screenshot (314)](https://github.com/user-attachments/assets/53185118-8035-4010-8392-3e7d89c4b177)
+![Screenshot (313)](https://github.com/user-attachments/assets/a89db6be-81be-48b3-a42e-b8bbfb5205e5)
+![Screenshot (311)](https://github.com/user-attachments/assets/8d01725b-200a-43b5-b061-62b11761065d)
 
 ## License
 
