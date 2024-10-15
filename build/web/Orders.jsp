@@ -166,7 +166,7 @@ function updateTotalPrice(priceChange) {
     var email = $('#mail').val();
 
     var options = {
-      key: "rzp_test_H0KqHhdAvOGByu", // Replace with your Razorpay API key
+      key: "your API ID", // Replace with your Razorpay API key
       amount: amount * 100, // Amount in paise, so multiply by 100
       currency: "INR",
       name: "MEDIMART",
